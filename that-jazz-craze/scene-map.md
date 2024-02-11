@@ -13,7 +13,6 @@ graph TD;
     Speakeasy;
     WendellApt["Wendell's Flop"];
     FarinoApt["Farino's Apt"];
-    TalkingNumbers["Talking Numbers"]
     RecordStudio["Blue Moon Recording Studio"];
     ProdFact["Fabrication Facility"];
     Warehouse["The Warehouse"];
