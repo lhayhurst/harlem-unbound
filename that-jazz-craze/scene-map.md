@@ -9,7 +9,7 @@ AnotherScene["another scene"] -- "clue" --- Scene
 Scenes and clues:
 
 ```mermaid
-graph LR;
+graph TD;
     Speakeasy;
     WendellApt["Wendell's Flop"];
     FarinoApt["Farino's Apt"];
